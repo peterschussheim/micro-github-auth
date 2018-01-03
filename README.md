@@ -1,5 +1,7 @@
 # micro-github-auth
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/peterschussheim/micro-github-auth.svg)](https://greenkeeper.io/)
+
 ## Usage
 
 ### Prerequisites
