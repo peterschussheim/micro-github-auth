@@ -11,11 +11,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.17.1",
     "dotenv": "^4.0.0",
-    "micro": "^8.0.4",
+    "micro": "^9.0.2",
     "micro-redirect": "^1.0.0",
-    "microrouter": "^2.2.2",
+    "microrouter": "^3.0.0",
     "uid-promise": "^1.0.0"
   },
   "devDependencies": {
